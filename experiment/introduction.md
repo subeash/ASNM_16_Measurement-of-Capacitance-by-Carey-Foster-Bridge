@@ -1,6 +1,6 @@
 ## Introduction
 
-***Mitsubishi Movemaster RM-501*** To determine the capacitance of an unknown capacitor in-terms of standard mutual inductance.  
+***Circuit diagram for measurement of capacitance by Carey Foster Bridge*** To determine the capacitance of an unknown capacitor in-terms of standard mutual inductance.  
 
 
 This bridge is a modification of carey foster bridge. It is used to measure the capacitance interms of standard mutual inductances and is then known as Carey foster bridge.
