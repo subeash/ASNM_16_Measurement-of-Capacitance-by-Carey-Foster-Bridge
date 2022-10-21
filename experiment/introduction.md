@@ -5,7 +5,7 @@
 
 This bridge is a modification of carey foster bridge. It is used to measure the capacitance interms of standard mutual inductances and is then known as Carey foster bridge.
 
-![Circuit diagram for measurement of capacitance by Carey Foster Bridge](images/heydweiller bridge _theory.jpg)
+![Circuit diagram for measurement of capacitance by Carey Foster Bridge](images/careyfoster_capacitance_procedure_upload.jpg)
 
 ***Figure 1: Circuit diagram for measurement of capacitance by Carey Foster Bridge***
 </p>
