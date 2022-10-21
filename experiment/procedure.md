@@ -1,8 +1,7 @@
 ## Procedure
-
-- Insert different values of $\theta$ within the joint range as prescribed in theory part and then click ok to get the output orientation and position of the end effector.
-- To see the individual movements of the robot links drag the ***sliders*** on the controller panel.
-- Manipulator position is shown in a **3D graph** for every submission of joint values.
-- The view can be rotated about a point by keeping the ***left mouse button*** pressed and rotating the mouse.
-- The view can be translated by keeping the ***right mouse button*** pressed and translating the mouse in the desired direction.
-- The ***scroll button*** or ***middle mouse button*** can be used for zooming.
+![Circuit diagram for measurement of capacitance by Carey Foster Bridge](images/careyfoster_capacitance_procedure_upload.jpg)
+- Set the voltage (V=12V) and Frequency (500Hz).
+- Choose the values of   R1, L1, M and R4 from the capacitance box and the resistance box.
+- Run simulation. Observe the milivoltmeter pointer.
+- If "NULL" is achieved, click "Calculate" (on mode). At this condition, simulate again. Observe calculated values of unknown capaciatnce (C3) and unknown internal resistance (R3) of the capacitor. If better "NULL" is desired, click calculate (off mode) . Start from step 2.
+-Dissipation factor of the unknwown capacitor is defined as `w*C*R`. Where, `w=2*pi*f`.
