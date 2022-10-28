@@ -23,4 +23,5 @@ SrNo | Name | VLabs Developer or Integration Engineer | Designation | Department
 :--|:--|:--|:--|:--|:--|
 
 1 | **Udita Mandal** | Developer | Senior Project Assistant | Department of Electrical Engineering | IIT Kharagpur | 
+  
 2 | **Subhasis Mahata** |  AWS Integration Engineer  | Senior Project Officer | Department of Mechanical Engineering | IIT Kharagpur |
